@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="41.126143">
+<testcase classname="EHR Application Test" name="Enter in all the information and save the chart" time="41.126143">
+<system-out><![CDATA[Given User opens browser....................................................passed
+Then User is on login logged with Valid credentials.........................passed
+Then Navigate to the patient chart..........................................passed
+Then Click on Edit botton...................................................passed
+Then Edit History...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
